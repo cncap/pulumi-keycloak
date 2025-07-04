@@ -1,9 +1,9 @@
-module github.com/pulumi/pulumi-keycloak/examples/realm/go
+module github.com/cncap/pulumi-keycloak/examples/realm/go
 
 go 1.21
 
 require (
-	github.com/pulumi/pulumi-keycloak/sdk/v5 v5.2.1
+	github.com/cncap/pulumi-keycloak/sdk/v5 v5.2.1
 	github.com/pulumi/pulumi/sdk/v3 v3.56.0
 )
 

@@ -31,7 +31,7 @@ import (
 	"github.com/pulumi/pulumi/sdk/v3/go/common/tokens"
 	"github.com/pulumi/pulumi/sdk/v3/go/common/util/contract"
 
-	"github.com/pulumi/pulumi-keycloak/provider/v6/pkg/version"
+	"github.com/cncap/pulumi-keycloak/provider/v6/pkg/version"
 )
 
 // all of the token components used below.
@@ -73,7 +73,7 @@ func Provider() tfbridge.ProviderInfo {
 		Keywords:          []string{"pulumi", "keycloak"},
 		License:           "Apache-2.0",
 		Homepage:          "https://pulumi.io",
-		Repository:        "https://github.com/pulumi/pulumi-keycloak",
+		Repository:        "https://github.com/cncap/pulumi-keycloak",
 		TFProviderLicense: ref(tfbridge.MITLicenseType),
 		MetadataInfo:      tfbridge.NewProviderMetadata(metadata),
 		UpstreamRepoPath:  "./upstream",

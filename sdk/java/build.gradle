@@ -96,12 +96,12 @@ publishing {
                 packaging = "jar"
                 description = "A Pulumi package for creating and managing keycloak cloud resources."
 
-                url = "https://github.com/pulumi/pulumi-keycloak"
+                url = "https://github.com/cncap/pulumi-keycloak"
 
                 scm {
-                    connection = "git@github.com/pulumi/pulumi-keycloak.git"
-                    developerConnection = "git@github.com/pulumi/pulumi-keycloak.git"
-                    url = "https://github.com/pulumi/pulumi-keycloak"
+                    connection = "git@github.com/cncap/pulumi-keycloak.git"
+                    developerConnection = "git@github.com/cncap/pulumi-keycloak.git"
+                    url = "https://github.com/cncap/pulumi-keycloak"
                 }
 
                 licenses {

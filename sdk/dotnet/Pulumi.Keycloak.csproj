@@ -7,7 +7,7 @@
     <Description>A Pulumi package for creating and managing keycloak cloud resources.</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://pulumi.io</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/pulumi/pulumi-keycloak</RepositoryUrl>
+    <RepositoryUrl>https://github.com/cncap/pulumi-keycloak</RepositoryUrl>
     <PackageIcon>logo.png</PackageIcon>
     <Version>6.0.0-alpha.0+dev</Version>
 

@@ -33,7 +33,7 @@ func TestAccRealmGo(t *testing.T) {
 func getGoBaseOptions(t *testing.T) integration.ProgramTestOptions {
 	return getBaseOptions(t).With(integration.ProgramTestOptions{
 		Dependencies: []string{
-			"github.com/pulumi/pulumi-keycloak/sdk/v4",
+			"github.com/cncap/pulumi-keycloak/sdk/v4",
 		},
 	})
 }

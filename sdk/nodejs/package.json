@@ -7,7 +7,7 @@
         "keycloak"
     ],
     "homepage": "https://pulumi.io",
-    "repository": "https://github.com/pulumi/pulumi-keycloak",
+    "repository": "https://github.com/cncap/pulumi-keycloak",
     "license": "Apache-2.0",
     "scripts": {
         "build": "tsc"

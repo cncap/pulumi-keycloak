@@ -10,7 +10,7 @@
     text = "Apache-2.0"
   [project.urls]
     Homepage = "https://pulumi.io"
-    Repository = "https://github.com/pulumi/pulumi-keycloak"
+    Repository = "https://github.com/cncap/pulumi-keycloak"
 
 [build-system]
   requires = ["setuptools>=61.0"]

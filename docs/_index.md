@@ -10,7 +10,7 @@ The Keycloak provider is available as a package in all Pulumi languages:
 
 * JavaScript/TypeScript: [`@pulumi/keycloak`](https://www.npmjs.com/package/@pulumi/keycloak)
 * Python: [`pulumi-keycloak`](https://pypi.org/project/pulumi-keycloak/)
-* Go: [`github.com/pulumi/pulumi-keycloak/sdk/v5/go/keycloak`](https://github.com/pulumi/pulumi-keycloak)
+* Go: [`github.com/cncap/pulumi-keycloak/sdk/v5/go/keycloak`](https://github.com/cncap/pulumi-keycloak)
 * .NET: [`Pulumi.Keycloak`](https://www.nuget.org/packages/Pulumi.Keycloak)
 * Java: [`com.pulumi/keycloak`](https://central.sonatype.com/artifact/com.pulumi/keycloak)
 ## Overview

@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-keycloak/examples/v4
+module github.com/cncap/pulumi-keycloak/examples/v4
 
 go 1.23.0
 
